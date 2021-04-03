@@ -1,0 +1,17 @@
+{
+  "files" : [
+    {
+      "file-name" : "alsonowEE",
+      "version" : [
+        "4-0",
+        "5-0",
+        "5-1"
+      ]
+    }
+  ],
+  "downloadURL" : [
+    "alsonowEE-4-0" : "",
+    "alsonowEE-5-0" : "",
+    "alsonowEE-5-1" : ""
+  ]
+}
